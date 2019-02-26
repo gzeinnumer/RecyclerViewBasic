@@ -10,6 +10,8 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //test
+
     private static final String TAG = "MainActivity";
 
     private ArrayList<String> mNames = new ArrayList<>();
