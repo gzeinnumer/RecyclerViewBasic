@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
 
     ////wertyuiopoiuytrtyuio
 
+
+    ///
+    ///sdfghjkl
+    ///delamapn
     private static final String TAG = "MainActivity";
 
     private ArrayList<String> mNames = new ArrayList<>();
